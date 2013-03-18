@@ -1,0 +1,4 @@
+Make illusion with alternating light and dark squares in columns with
+each column offset from the previous one.
+- use new drawFuns/square.R function
+

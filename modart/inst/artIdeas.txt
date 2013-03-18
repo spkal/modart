@@ -1,0 +1,63 @@
+= Modern Art Package =
+
+This is on the seapowet dokuwiki:
+  http://seapowet.org/mydoku/doku.php?id=modernart_package&DokuWiki=ea823c01f3e402a6c3976b7cb6373a79
+  http://seapowet.org/cgi-bin/wiki.pl?ModernArt_Package
+
+An S package that creates works of modern art.
+
+=== Baer, Jo ===
+* Pale Yellow 1964-65
+* Square with black border, thin yellow line all around, white interior
+* PAM, nov-2009
+
+=== Alberg, Josef ===
+* Concentric squares offset towards the bottom
+* teal, gray, orange (largest to smallest)
+* light blue, dark gray, black
+* have a photo
+* LACMA, feb-2010
+
+=== Louis, Morris ===
+* Vertical rectangle with vertical colored strips on each side
+* have a photo
+* LACMA, feb-2010
+
+=== Mclaughlin, John ===
+* Horizontal rectangle containing two side squares
+* each square has vertical stripes, yellow-black-lightblue
+* have a photo
+* LACMA, feb-2010
+
+=== Mclaughlin, John ===
+* Horizontal rectangle containing three vertical rectangles
+* center rectangle is light gray, two edge rectangles are yellow
+* have a photo
+* LACMA, feb-2010
+
+=== Martin, Agnes ===
+* Untitled #3
+* Gray stripes
+* PAM aug-17-2007
+
+=== Martin, Agnes ===
+* Untitled #15
+* White and gray stripes
+* PAM aug-17-2007
+
+=== Davis, Gene ===
+* Yankee Watermelon
+* vertical stripes, narrow, colorful
+* PAM aug-17-2007
+
+=== Nolan, Kenneth ===
+* Air Beauty
+* Large horizontal yellow rectangle, colorful stripes at top and bottom
+* PAM aug-17-2007
+
+=== Sander, Ludwig ===
+* Chicksaw
+* Green and yellow quadrangals
+* Vertical line, left horizonal line is curved, right is straight
+* PAM aug-17-2007
+* See: http://www.askart.com/AskART/artists/search/Search_Repeat.aspx?searchtype=IMAGES&artist=30488

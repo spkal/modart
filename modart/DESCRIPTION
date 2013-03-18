@@ -1,0 +1,11 @@
+Package: modart
+Type: Package
+Title: Modern Art Drawn in S
+Version: 0.8
+Date: Wed Mar 30 23:38:17 PDT 2011
+Author: Stephen Kaluzny
+Maintainer: Stephen Kaluzny <skaluzny@tibco.com>
+Description: Examples of modern art drawn with S graphics commands.
+Dialect: S-PLUS
+License: GPL
+Packaged: Wed Apr 27 06:29:06 2011; spk

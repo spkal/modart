@@ -1,0 +1,10 @@
+Package: draw
+Type: Package
+Title: Basic Drawing in S
+Version: 0.1
+Date: Sat Jul 30 11:45:15 PDT 2011
+Author: Stephen Kaluzny <skaluzny@tibco.com>
+Maintainer: Stephen Kaluzny <skaluzny@tibco.com>
+Description: A collection of functions to draw basic geometric objects.
+Dialect: S-PLUS
+License: TBD
